@@ -13,7 +13,7 @@ to the least-loaded GPU on multi-GPU systems and can be used by:
 # Installation
 
 ```
-pip install git+https://github.com/bamos/setGPU.git
+pip install git+https://github.com/datthinh1801/setGPU.git
 ```
 
 # Dependencies
