@@ -9,6 +9,6 @@ setup(
     platforms=["any"],
     license="Public Domain",
     url="https://github.com/datthinh1801/setGPU",
-    py_modules=["setGPU"],
+    py_modules=["setgpu"],
     install_requires=["gpustat"],
 )
