@@ -3,8 +3,11 @@
 A small Python library that automatically sets `CUDA_VISIBLE_DEVICES`
 to the least-loaded GPU on multi-GPU systems and can be used by:
 
-Putting `import setgpu` before any import
-   that will use a GPU like Torch, TensorFlow, or JAX.
+```python
+from setgpu import set_gpu
+
+set_gpu()
+```
 
 # Installation
 
